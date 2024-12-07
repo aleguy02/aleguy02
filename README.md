@@ -4,7 +4,8 @@ Credit to @wei and @AlexanderWangY for inspiration
 
 <p>
   <h1>
-    Hi, I’m <a href="https://github.com/aleguy02">Ale</a> 👋
+    Hi, I’m <a href="https://github.com/aleguy02">Ale</a>
+    <img src="public/images/gator.png" width="60">
   </h1>
 <p/>
 
