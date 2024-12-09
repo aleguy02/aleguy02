@@ -26,6 +26,14 @@ Right now I'm learning about
 
   <!--- TODO: add button to follow profile here --->
 
+<h2>Things That Interested Me So I Read Them</h2>
+<a href="https://baymard.com/blog/payment-method-selection">Payment Method UX: Designing Payment Selection</a>
+<br>
+<a href="https://bsky.social/about/blog/02-22-2024-open-social-web">Bluesky: An Open Social Web</a>
+<br>
+<a href="https://bsky.social/about/blog/03-12-2024-stackable-moderation">Bluesky’s Stackable Approach to Moderation</a>
+
+
 -----
 <p align="center">
   <a href="https://github.com/aleguy02">
