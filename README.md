@@ -28,7 +28,11 @@ Right now I'm learning about
 
 Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy02/tree/main/config/VSCode%20Themes">here</a>!
 
-  <!--- TODO: create script to show my most recent commit here --->
+<h2>My Recent Activity</h2>
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 
 -----
