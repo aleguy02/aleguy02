@@ -16,7 +16,7 @@ Credit to @wei and @AlexanderWangY for inspiration
   and <a href="https://www.youtube.com/c/SkillUp" target="_blank">video games</a>, 
   taking care of my bonsai trees 🌱, 
   and using my art skills (either by drawing or making UIs).
-  These days I spend a lot of time doomscrolling GitHub, ever since I found out there was a mobile app. I'm not sure many people can say that.
+  Since I downloaded the GitHub mobile app, I like spend a lot of time scrolling GitHub and finding cool repos.
 
 
 Right now I'm learning about
