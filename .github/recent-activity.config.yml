@@ -3,8 +3,8 @@ settings:
   commit_msg: "⚡ Update README with the recent activity"
   max_lines: 5
   readme_file: "./README.md"
-  disabled_events:
-    - "comments"
+  # disabled_events:
+  #   - "comments"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT-05:00"
@@ -14,7 +14,7 @@ settings:
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   line_prefix: "{NUM}. "
 messages:
-  comments: "💬 Commented on {ID} in {REPO}"
+  # comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
   issue_closed: "✔️ Closed issue {ID} in {REPO}"
