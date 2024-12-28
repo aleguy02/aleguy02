@@ -30,9 +30,7 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 
 <h2>My Recent Activity</h2>
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
 
 
 -----
