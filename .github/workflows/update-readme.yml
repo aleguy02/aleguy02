@@ -9,9 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update Profile README
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - uses: Readme-Workflows/recent-activity@v2.4.0 # push event only in 2.4.0+
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
