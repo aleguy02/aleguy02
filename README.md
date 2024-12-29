@@ -31,11 +31,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/github-activity-readme](https://github.com/aleguy02/github-activity-readme)
+1. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
 2. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
-3. ⬆️ Pushed 2 commit(s) to [aleguy02/github-activity-readme](https://github.com/aleguy02/github-activity-readme)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
-5. 📔 Created new repository [aleguy02/github-activity-readme](https://github.com/aleguy02/github-activity-readme)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/github-activity-readme](https://github.com/aleguy02/github-activity-readme)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
 <!--END_SECTION:activity-->
 
 
