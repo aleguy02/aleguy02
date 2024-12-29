@@ -31,11 +31,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#253](https://github.com/ufosc/OSC-Proximity-Chat-App/issues/253#issuecomment-2489952571) in [ufosc/OSC-Proximity-Chat-App](https://github.com/ufosc/OSC-Proximity-Chat-App)
-2. 🎉 Merged PR [#2](https://github.com/aleguy02/Informed-Citizen-Bot/pull/2) in [aleguy02/Informed-Citizen-Bot](https://github.com/aleguy02/Informed-Citizen-Bot)
-3. 💪 Opened PR [#2](https://github.com/aleguy02/Informed-Citizen-Bot/pull/2) in [aleguy02/Informed-Citizen-Bot](https://github.com/aleguy02/Informed-Citizen-Bot)
-4. ❌ Closed PR [#1](https://github.com/aleguy02/Informed-Citizen-Bot/pull/1) in [aleguy02/Informed-Citizen-Bot](https://github.com/aleguy02/Informed-Citizen-Bot)
-5. 💪 Opened PR [#1](https://github.com/aleguy02/Informed-Citizen-Bot/pull/1) in [aleguy02/Informed-Citizen-Bot](https://github.com/aleguy02/Informed-Citizen-Bot)
+1. ⬆️ Pushed 1 commit(s) to [aleguy02/github-activity-readme](https://github.com/aleguy02/github-activity-readme)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/github-activity-readme](https://github.com/aleguy02/github-activity-readme)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/Test-Repo](https://github.com/aleguy02/Test-Repo)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
 <!--END_SECTION:activity-->
 
 
