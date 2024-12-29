@@ -26,7 +26,7 @@ Right now I'm learning about
 
   <!--- TODO: add button to follow profile here --->
 
-Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy02/tree/main/config/VSCode%20Themes">here</a>!
+Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy02/tree/main/config-files/VS%20Code/themes">here</a>!
 
 <h2>My Recent Activity</h2>
 
