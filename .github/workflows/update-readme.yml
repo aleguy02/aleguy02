@@ -2,7 +2,7 @@ name: Update README.md Recent Activity section
 run-name: Automated update
 on:
   schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
+    - cron: '*/60 * * * *' # Update every 60 minutes
   workflow_dispatch: # allows you to manually trigger workflow from GitHub Actions tab
 
 jobs:
