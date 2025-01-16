@@ -31,11 +31,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-RPS](https://github.com/aleguy02/GHW-RPS)
-2. ⬆️ Pushed 2 commit(s) to [aleguy02/GHW-RPS](https://github.com/aleguy02/GHW-RPS)
-3. 📔 Created new repository [aleguy02/GHW-RPS](https://github.com/aleguy02/GHW-RPS)
-4. 📔 Created new repository [aleguy02/GHW-RPS](https://github.com/aleguy02/GHW-RPS)
-5. 📔 Created new repository [aleguy02/GDocify](https://github.com/aleguy02/GDocify)
+1. 📔 Created new repository [aleguy02/GHW-Gemini-API](https://github.com/aleguy02/GHW-Gemini-API)
+2. 📔 Created new repository [aleguy02/GHW-Gemini-API](https://github.com/aleguy02/GHW-Gemini-API)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-RPS](https://github.com/aleguy02/GHW-RPS)
+4. ⬆️ Pushed 2 commit(s) to [aleguy02/GHW-RPS](https://github.com/aleguy02/GHW-RPS)
+5. 📔 Created new repository [aleguy02/GHW-RPS](https://github.com/aleguy02/GHW-RPS)
 <!--END_SECTION:activity-->
 
 
