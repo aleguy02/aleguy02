@@ -32,10 +32,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 
 <!--START_SECTION:activity-->
 1. 📔 Created new repository [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
-2. 🚀 Published release [UX Improvements and Code Refactoring](https://github.com/aleguy02/GDocify/releases/tag/v1.1.0) in [aleguy02/GDocify](https://github.com/aleguy02/GDocify)
-3. 📔 Created new repository [aleguy02/GDocify](https://github.com/aleguy02/GDocify)
-4. ⬆️ Pushed 2 commit(s) to [aleguy02/GDocify](https://github.com/aleguy02/GDocify)
-5. ⬆️ Pushed 1 commit(s) to [aleguy02/GDocify](https://github.com/aleguy02/GDocify)
+2. 📔 Created new repository [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
+3. 🚀 Published release [UX Improvements and Code Refactoring](https://github.com/aleguy02/GDocify/releases/tag/v1.1.0) in [aleguy02/GDocify](https://github.com/aleguy02/GDocify)
+4. 📔 Created new repository [aleguy02/GDocify](https://github.com/aleguy02/GDocify)
+5. ⬆️ Pushed 2 commit(s) to [aleguy02/GDocify](https://github.com/aleguy02/GDocify)
 <!--END_SECTION:activity-->
 
 
