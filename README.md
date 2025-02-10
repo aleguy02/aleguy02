@@ -31,11 +31,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
-2. ⬆️ Pushed 2 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
-3. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2644436888) in [wei/socialify](https://github.com/wei/socialify)
-4. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2644436590) in [wei/socialify](https://github.com/wei/socialify)
-5. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
+1. ⬆️ Pushed 2 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
+3. ⬆️ Pushed 2 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
+4. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2644436888) in [wei/socialify](https://github.com/wei/socialify)
+5. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2644436590) in [wei/socialify](https://github.com/wei/socialify)
 <!--END_SECTION:activity-->
 
 
