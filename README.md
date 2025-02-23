@@ -31,11 +31,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2676711260) in [wei/socialify](https://github.com/wei/socialify)
-2. 🗣 Commented on [#4](https://github.com/aleguy02/Doors/issues/4#issuecomment-2676641769) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-3. ❗ Opened issue [#4](https://github.com/aleguy02/Doors/issues/4) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-4. ❗ Opened issue [#3](https://github.com/aleguy02/Doors/issues/3) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-5. ⬆️ Pushed 2 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+1. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2676995777) in [wei/socialify](https://github.com/wei/socialify)
+2. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2676711260) in [wei/socialify](https://github.com/wei/socialify)
+3. 🗣 Commented on [#4](https://github.com/aleguy02/Doors/issues/4#issuecomment-2676641769) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+4. ❗ Opened issue [#4](https://github.com/aleguy02/Doors/issues/4) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+5. ❗ Opened issue [#3](https://github.com/aleguy02/Doors/issues/3) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
 <!--END_SECTION:activity-->
 
 
