@@ -21,8 +21,8 @@ Credit to @wei and @AlexanderWangY for inspiration
 
 Right now I'm learning about
 - mobile development
-- different frameworks for full-stack applications
-- DSA
+- all things C++
+- OSS
 
   <!--- TODO: add button to follow profile here --->
 
