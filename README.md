@@ -32,10 +32,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
-2. 📔 Created new repository [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
-3. 📔 Created new repository [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/fork-ghw-deploy2](https://github.com/aleguy02/fork-ghw-deploy2)
-5. ⬆️ Pushed 1 commit(s) to [aleguy02/fork-ghw-deploy2](https://github.com/aleguy02/fork-ghw-deploy2)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
+4. 📔 Created new repository [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
+5. 📔 Created new repository [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
 <!--END_SECTION:activity-->
 
 
