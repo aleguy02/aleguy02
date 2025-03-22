@@ -32,10 +32,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
-2. 📔 Created new repository [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
 3. 📔 Created new repository [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/hugo-test](https://github.com/aleguy02/hugo-test)
-5. 📔 Created new repository [aleguy02/hugo-test](https://github.com/aleguy02/hugo-test)
+4. 📔 Created new repository [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/hugo-test](https://github.com/aleguy02/hugo-test)
 <!--END_SECTION:activity-->
 
 
