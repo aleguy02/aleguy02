@@ -11,12 +11,14 @@ Credit to @wei and @AlexanderWangY for inspiration
 
 <h2>About Me</h2>
 
-  I'm a Computer Science major at the University of Florida who loves writing code.
-  In my free time, I love staying up to date on the latest in <a href="https://techcrunch.com/" target="_blank">tech</a> 
-  and <a href="https://www.youtube.com/c/SkillUp" target="_blank">video games</a>, 
-  taking care of my bonsai trees 🌱, 
-  and using my art skills (either by drawing or making UIs).
-  Ever since I downloaded the GitHub mobile app, I’ve been enjoying scrolling through GitHub and discovering cool repositories.
+I'm a Computer Science major at the University of Florida who loves writing code.
+In my free time, I love staying up to date on the latest in <a href="https://techcrunch.com/" target="_blank">tech</a> 
+and <a href="https://www.youtube.com/c/SkillUp" target="_blank">video games</a>, 
+taking care of my bonsai trees 🌱, 
+and using my art skills (either by drawing or making UIs).
+Ever since I downloaded the GitHub mobile app, I’ve been enjoying scrolling through GitHub and discovering cool repositories.
+
+**Check out my web server and blog at [aleguy02.dev](aleguy02.dev) and [blog.aleguy02.dev](blog.aleguy02.dev)!**
 
 
 Right now I'm learning about
