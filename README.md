@@ -33,10 +33,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
+1. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
 3. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
-4. 📔 Created new repository [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
 5. 📔 Created new repository [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
 <!--END_SECTION:activity-->
 
