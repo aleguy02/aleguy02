@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
+1. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2755743151) in [wei/socialify](https://github.com/wei/socialify)
 2. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
 3. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
 4. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
-5. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
 <!--END_SECTION:activity-->
 
 
