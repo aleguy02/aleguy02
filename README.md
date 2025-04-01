@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
+1. ⬆️ Pushed 2 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
 2. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
-3. 📔 Created new repository [aleguy02/fork-react-navbar](https://github.com/aleguy02/fork-react-navbar)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/fork-react-navbar](https://github.com/aleguy02/fork-react-navbar)
-5. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2755743151) in [wei/socialify](https://github.com/wei/socialify)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
+4. 📔 Created new repository [aleguy02/fork-react-navbar](https://github.com/aleguy02/fork-react-navbar)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/fork-react-navbar](https://github.com/aleguy02/fork-react-navbar)
 <!--END_SECTION:activity-->
 
 
