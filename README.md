@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/aleguy02/Doors/issues/4#issuecomment-2781098280) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
-3. ⬆️ Pushed 2 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/Informed-Citizen-Bot](https://github.com/aleguy02/Informed-Citizen-Bot)
-5. ⬆️ Pushed 2 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
+1. 📔 Created new repository [aleguy02/Doors](https://github.com/aleguy02/Doors)
+2. 🗣 Commented on [#4](https://github.com/aleguy02/Doors/issues/4#issuecomment-2781098280) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
+4. ⬆️ Pushed 2 commit(s) to [aleguy02/GHW-deploy-static-site](https://github.com/aleguy02/GHW-deploy-static-site)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/Informed-Citizen-Bot](https://github.com/aleguy02/Informed-Citizen-Bot)
 <!--END_SECTION:activity-->
 
 
