@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/aleguy02/Doors/issues/7) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-2. 🔒 Closed issue [#4](https://github.com/aleguy02/Doors/issues/4) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-3. ⬆️ Pushed 11 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-4. 🎉 Merged PR [#6](https://github.com/aleguy02/Doors/pull/6) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-5. 💪 Opened PR [#6](https://github.com/aleguy02/Doors/pull/6) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+1. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+2. ❗ Opened issue [#8](https://github.com/aleguy02/Doors/issues/8) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+3. ❗ Opened issue [#7](https://github.com/aleguy02/Doors/issues/7) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+4. 🔒 Closed issue [#4](https://github.com/aleguy02/Doors/issues/4) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+5. ⬆️ Pushed 11 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
 <!--END_SECTION:activity-->
 
 
