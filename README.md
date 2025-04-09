@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/aleguy02/Doors/issues/9) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
-3. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-4. ❗ Opened issue [#8](https://github.com/aleguy02/Doors/issues/8) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-5. ❗ Opened issue [#7](https://github.com/aleguy02/Doors/issues/7) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+1. 🗣 Commented on [#9](https://github.com/aleguy02/Doors/issues/9#issuecomment-2788244347) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+2. 🔒 Closed issue [#9](https://github.com/aleguy02/Doors/issues/9) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+3. ⬆️ Pushed 4 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+4. ❗ Opened issue [#9](https://github.com/aleguy02/Doors/issues/9) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3503C-Notes](https://github.com/aleguy02/COP3503C-Notes)
 <!--END_SECTION:activity-->
 
 
