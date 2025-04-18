@@ -34,10 +34,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-2. 🗣 Commented on [#7](https://github.com/aleguy02/Doors/issues/7#issuecomment-2800307194) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-3. ⬆️ Pushed 3 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-5. 📔 Created new repository [aleguy02/Doors](https://github.com/aleguy02/Doors)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+4. 🗣 Commented on [#7](https://github.com/aleguy02/Doors/issues/7#issuecomment-2800307194) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+5. ⬆️ Pushed 3 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
 <!--END_SECTION:activity-->
 
 
