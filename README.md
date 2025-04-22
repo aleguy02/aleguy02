@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 📔 Created new repository [aleguy02/Doors](https://github.com/aleguy02/Doors)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
-3. ⬆️ Pushed 2 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-5. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2815650891) in [wei/socialify](https://github.com/wei/socialify)
+1. ❗ Opened issue [#13](https://github.com/aleguy02/Doors/issues/13) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+2. 📔 Created new repository [aleguy02/Doors](https://github.com/aleguy02/Doors)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
+4. ⬆️ Pushed 2 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
 <!--END_SECTION:activity-->
 
 
