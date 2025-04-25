@@ -34,10 +34,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
-3. 📔 Created new repository [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
-4. 📔 Created new repository [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
-5. ⬆️ Pushed 8 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
+5. 📔 Created new repository [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
 <!--END_SECTION:activity-->
 
 
