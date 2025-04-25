@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 📔 Created new repository [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
+1. ⬆️ Pushed 1 commit(s) to [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
 2. 📔 Created new repository [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
-3. ⬆️ Pushed 8 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-4. ❗ Opened issue [#16](https://github.com/aleguy02/Doors/issues/16) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-5. ❗ Opened issue [#15](https://github.com/aleguy02/Doors/issues/15) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+3. 📔 Created new repository [aleguy02/ReceiptiPy](https://github.com/aleguy02/ReceiptiPy)
+4. ⬆️ Pushed 8 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+5. ❗ Opened issue [#16](https://github.com/aleguy02/Doors/issues/16) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
 <!--END_SECTION:activity-->
 
 
