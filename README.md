@@ -33,10 +33,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/Informed-Citizen-Bot](https://github.com/aleguy02/Informed-Citizen-Bot)
-2. ⬆️ Pushed 2 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-3. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+1. ❗ Opened issue [#18](https://github.com/aleguy02/Doors/issues/18) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+2. ❗ Opened issue [#17](https://github.com/aleguy02/Doors/issues/17) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/Informed-Citizen-Bot](https://github.com/aleguy02/Informed-Citizen-Bot)
+4. ⬆️ Pushed 2 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
 5. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
 <!--END_SECTION:activity-->
 
