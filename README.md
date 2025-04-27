@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
-2. ⬆️ Pushed 2 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
-3. ⬆️ Pushed 3 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
-4. ❗ Opened issue [#18](https://github.com/aleguy02/Doors/issues/18) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-5. ❗ Opened issue [#17](https://github.com/aleguy02/Doors/issues/17) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+1. ❗ Opened issue [#1](https://github.com/aleguy02/SpotiPy/issues/1) in [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+3. ⬆️ Pushed 2 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+4. ⬆️ Pushed 3 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+5. ❗ Opened issue [#18](https://github.com/aleguy02/Doors/issues/18) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
 <!--END_SECTION:activity-->
 
 
