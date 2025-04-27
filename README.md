@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/aleguy02/SpotiPy/issues/2) in [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
-2. ❗ Opened issue [#1](https://github.com/aleguy02/SpotiPy/issues/1) in [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
-3. ⬆️ Pushed 1 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
-4. ⬆️ Pushed 2 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
-5. ⬆️ Pushed 3 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+1. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-2833561831) in [wei/socialify](https://github.com/wei/socialify)
+2. ❗ Opened issue [#2](https://github.com/aleguy02/SpotiPy/issues/2) in [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+3. ❗ Opened issue [#1](https://github.com/aleguy02/SpotiPy/issues/1) in [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+5. ⬆️ Pushed 2 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
 <!--END_SECTION:activity-->
 
 
