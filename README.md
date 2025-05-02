@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-2. 🔒 Closed issue [#14](https://github.com/aleguy02/Doors/issues/14) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-3. 🔒 Closed issue [#13](https://github.com/aleguy02/Doors/issues/13) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-5. ⬆️ Pushed 16 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+1. 📔 Created new repository [aleguy02/my-movies](https://github.com/aleguy02/my-movies)
+2. 📔 Created new repository [aleguy02/my-movies](https://github.com/aleguy02/my-movies)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
 <!--END_SECTION:activity-->
 
 
