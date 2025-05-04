@@ -4,28 +4,43 @@ If you're going to spend a lot of time coding, why not use themes you actually e
 
 ---
 
-## 🌌 Dark (Visual Studio)
+## Dark (Visual Studio)
 - **Description:** A classic dark theme inspired by the Visual Studio IDE, perfect for developers who prefer a minimalistic and professional look.
 - **Why I Love It:**
   - Its classic design.
 
 ---
 
-## 🗻 Ayu Tokyo Night
+## Ayu Tokyo Night
 - **Description:** A modern, elegant theme inspired by the neon lights of Tokyo. It merges soft tones with vibrant highlights.
 - **Why I Love It:**
   - Unique and bold color palette that stands out.
   - It looks similar to the color theme of the React documentation.
-- **[Marketplace Link](https://marketplace.visualstudio.com/items?itemName=LudoLoops.ayutokyo)**
 
 ---
 
-## 🖤 GitHub Dark
+## GitHub Dark/Colorblind
 - **Description:** The official dark theme used by GitHub, offering a familiar experience for developers who love GitHub's interface.
 - **Why I Love It:**
   - Familiarity with GitHub's design.
   - Code just looks more polished with this theme.
-- **[Marketplace Link](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)**
+  - Dark theme is easy on the eyes and looks almost... velvety
+
+---
+
+## Monokai/Dimmed
+- **Description:** A quirky theme for a chill coding session.
+- **Why I Love It:**
+  - Unique, the italics, color choice, and underline decorators are a fun refresher
+  - The dimmed version is so colorful without straining my eyes
+
+---
+
+## Monokai/Dimmed
+- **Description:** A quirky theme for a chill coding session.
+- **Why I Love It:**
+  - Unique, the italics, color choice, and underline decorators are a fun refresher
+  - The dimmed version is so colorful without straining my eyes
 
 ---
 
@@ -37,4 +52,4 @@ If you're going to spend a lot of time coding, why not use themes you actually e
 
 ---
 
-Happy coding! ✨
+Happy coding!
