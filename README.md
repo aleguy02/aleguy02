@@ -33,10 +33,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 4 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
-3. ⬆️ Pushed 1 commit(s) to [aleguy02/my-movies](https://github.com/aleguy02/my-movies)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/my-movies](https://github.com/aleguy02/my-movies)
+1. 📔 Created new repository [aleguy02/fork-pe-portfolio-site](https://github.com/aleguy02/fork-pe-portfolio-site)
+2. 📔 Created new repository [aleguy02/fork-pe-portfolio-site](https://github.com/aleguy02/fork-pe-portfolio-site)
+3. ⬆️ Pushed 4 commit(s) to [aleguy02/Doors](https://github.com/aleguy02/Doors)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/aleguy02](https://github.com/aleguy02/aleguy02)
 5. ⬆️ Pushed 2 commit(s) to [aleguy02/my-movies](https://github.com/aleguy02/my-movies)
 <!--END_SECTION:activity-->
 
