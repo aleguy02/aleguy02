@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/aleguy02/PE-portfolio/pull/1) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-2. 📔 Created new repository [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. 💪 Opened PR [#22](https://github.com/prettyalana/portfolio/pull/22) in [prettyalana/portfolio](https://github.com/prettyalana/portfolio)
-4. 📔 Created new repository [prettyalana/portfolio](https://github.com/prettyalana/portfolio)
-5. 🗣 Commented on [#3](https://github.com/prettyalana/portfolio/pull/3#issuecomment-2989208323) in [prettyalana/portfolio](https://github.com/prettyalana/portfolio)
+1. ⬆️ Pushed 3 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+2. 🔒 Closed issue [#4](https://github.com/aleguy02/PE-portfolio/issues/4) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+3. 🎉 Merged PR [#2](https://github.com/aleguy02/PE-portfolio/pull/2) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+4. ⬆️ Pushed 3 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+5. ❗ Opened issue [#11](https://github.com/aleguy02/PE-portfolio/issues/11) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
 
 
