@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/aleguy02/PE-portfolio/pull/14) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-2. 📔 Created new repository [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. 🔒 Closed issue [#6](https://github.com/aleguy02/PE-portfolio/issues/6) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. ⬆️ Pushed 3 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. 🎉 Merged PR [#13](https://github.com/aleguy02/PE-portfolio/pull/13) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+1. ⬆️ Pushed 2 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+2. 🔒 Closed issue [#7](https://github.com/aleguy02/PE-portfolio/issues/7) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+3. 🎉 Merged PR [#14](https://github.com/aleguy02/PE-portfolio/pull/14) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+4. 💪 Opened PR [#14](https://github.com/aleguy02/PE-portfolio/pull/14) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+5. 📔 Created new repository [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
 
 
