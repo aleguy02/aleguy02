@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-3006526192) in [wei/socialify](https://github.com/wei/socialify)
-2. ❗ Opened issue [#19](https://github.com/aleguy02/PE-portfolio/issues/19) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. ⬆️ Pushed 2 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. 🔒 Closed issue [#11](https://github.com/aleguy02/PE-portfolio/issues/11) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. 🎉 Merged PR [#18](https://github.com/aleguy02/PE-portfolio/pull/18) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+1. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+2. 💪 Opened PR [#20](https://github.com/aleguy02/PE-portfolio/pull/20) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+3. 📔 Created new repository [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+4. 🗣 Commented on [#501](https://github.com/wei/socialify/issues/501#issuecomment-3006526192) in [wei/socialify](https://github.com/wei/socialify)
+5. ❗ Opened issue [#19](https://github.com/aleguy02/PE-portfolio/issues/19) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
 
 
