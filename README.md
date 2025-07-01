@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 2 commit(s) to [aleguy02/socialify](https://github.com/aleguy02/socialify)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. ⬆️ Pushed 60 commit(s) to [aleguy02/socialify](https://github.com/aleguy02/socialify)
-4. ⬆️ Pushed 3 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. 🎉 Merged PR [#21](https://github.com/aleguy02/PE-portfolio/pull/21) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+1. 💪 Opened PR [#631](https://github.com/wei/socialify/pull/631) in [wei/socialify](https://github.com/wei/socialify)
+2. 📔 Created new repository [aleguy02/socialify](https://github.com/aleguy02/socialify)
+3. ⬆️ Pushed 2 commit(s) to [aleguy02/socialify](https://github.com/aleguy02/socialify)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+5. ⬆️ Pushed 60 commit(s) to [aleguy02/socialify](https://github.com/aleguy02/socialify)
 <!--END_SECTION:activity-->
 
 
