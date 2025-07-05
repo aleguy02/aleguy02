@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
-3. 📔 Created new repository [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
-4. 📔 Created new repository [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
-5. 💪 Opened PR [#631](https://github.com/wei/socialify/pull/631) in [wei/socialify](https://github.com/wei/socialify)
+1. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
 <!--END_SECTION:activity-->
 
 
