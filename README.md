@@ -33,10 +33,10 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+1. ⬆️ Pushed 1 commit(s) to [aleguy02/SpotiPy](https://github.com/aleguy02/SpotiPy)
 2. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 3. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 5. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
 <!--END_SECTION:activity-->
 
