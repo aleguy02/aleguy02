@@ -35,7 +35,7 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <!--START_SECTION:activity-->
 1. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
 2. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
-3. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
 4. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
 5. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
 <!--END_SECTION:activity-->
