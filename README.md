@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
+1. 💪 Opened PR [#20](https://github.com/aleguy02/Doors/pull/20) in [aleguy02/Doors](https://github.com/aleguy02/Doors)
+2. 📔 Created new repository [aleguy02/Doors](https://github.com/aleguy02/Doors)
 3. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
-4. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
-5. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
+4. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
+5. ⬆️ Pushed 1 commit(s) to [aleguy02/priority-queue-visualizer](https://github.com/aleguy02/priority-queue-visualizer)
 <!--END_SECTION:activity-->
 
 
