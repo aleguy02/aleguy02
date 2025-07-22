@@ -22,9 +22,9 @@ Ever since I downloaded the GitHub mobile app, I’ve been enjoying scrolling th
 
 
 Right now I'm learning about
-- mobile development
-- all things C++
-- OSS
+- Production Engineeering
+- DSA/Leetcode
+- System Design
 
   <!--- TODO: add button to follow profile here --->
 
