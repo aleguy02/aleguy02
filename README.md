@@ -33,9 +33,9 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
-2. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+1. 💪 Opened PR [#2](https://github.com/aleguy02/COP3530-project3/pull/2) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+2. 📔 Created new repository [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+3. ⬆️ Pushed 1 commit(s) to [aleguy02/my_blog](https://github.com/aleguy02/my_blog)
 4. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 5. ⬆️ Pushed 1 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
