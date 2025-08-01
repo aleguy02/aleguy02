@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed 2 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-2. 🎉 Merged PR [#38](https://github.com/aleguy02/PE-portfolio/pull/38) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. 💪 Opened PR [#38](https://github.com/aleguy02/PE-portfolio/pull/38) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. 📔 Created new repository [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. 💪 Opened PR [#2](https://github.com/aleguy02/COP3530-project3/pull/2) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+1. 💪 Opened PR [#8](https://github.com/aleguy02/COP3530-project3/pull/8) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+2. ⬆️ Pushed 1 commit(s) to [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+3. ❗ Opened issue [#7](https://github.com/aleguy02/COP3530-project3/issues/7) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+4. ⬆️ Pushed 2 commit(s) to [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+5. 🎉 Merged PR [#38](https://github.com/aleguy02/PE-portfolio/pull/38) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
 
 
