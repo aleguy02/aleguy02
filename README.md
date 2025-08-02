@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/aleguy02/COP3530-project3/pull/9) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
-2. 💪 Opened PR [#9](https://github.com/aleguy02/COP3530-project3/pull/9) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
-3. 🎉 Merged PR [#8](https://github.com/aleguy02/COP3530-project3/pull/8) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
-4. 💪 Opened PR [#8](https://github.com/aleguy02/COP3530-project3/pull/8) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
-5. ❗ Opened issue [#7](https://github.com/aleguy02/COP3530-project3/issues/7) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+1. 💪 Opened PR [#11](https://github.com/aleguy02/COP3530-project3/pull/11) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+2. 🎉 Merged PR [#9](https://github.com/aleguy02/COP3530-project3/pull/9) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+3. 💪 Opened PR [#9](https://github.com/aleguy02/COP3530-project3/pull/9) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+4. 🎉 Merged PR [#8](https://github.com/aleguy02/COP3530-project3/pull/8) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+5. 💪 Opened PR [#8](https://github.com/aleguy02/COP3530-project3/pull/8) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
 <!--END_SECTION:activity-->
 
 
