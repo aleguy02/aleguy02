@@ -28,11 +28,11 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/aleguy02/PE-portfolio/pull/40) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-2. 💪 Opened PR [#40](https://github.com/aleguy02/PE-portfolio/pull/40) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. 🔒 Closed issue [#27](https://github.com/aleguy02/PE-portfolio/issues/27) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. 🎉 Merged PR [#39](https://github.com/aleguy02/PE-portfolio/pull/39) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. 💪 Opened PR [#39](https://github.com/aleguy02/PE-portfolio/pull/39) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+1. 🎉 Merged PR [#36](https://github.com/aleguy02/graph-uf/pull/36) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+2. 💪 Opened PR [#36](https://github.com/aleguy02/graph-uf/pull/36) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+3. 🎉 Merged PR [#40](https://github.com/aleguy02/PE-portfolio/pull/40) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+4. 💪 Opened PR [#40](https://github.com/aleguy02/PE-portfolio/pull/40) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+5. 🔒 Closed issue [#27](https://github.com/aleguy02/PE-portfolio/issues/27) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
 
 
