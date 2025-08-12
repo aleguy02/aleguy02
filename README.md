@@ -33,11 +33,11 @@ Check out my favorite VSCode themes <a href="https://github.com/aleguy02/aleguy0
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#27](https://github.com/aleguy02/PE-portfolio/issues/27) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-2. 🎉 Merged PR [#39](https://github.com/aleguy02/PE-portfolio/pull/39) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. 💪 Opened PR [#39](https://github.com/aleguy02/PE-portfolio/pull/39) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. ❗ Opened issue [#34](https://github.com/aleguy02/graph-uf/issues/34) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-5. 🎉 Merged PR [#33](https://github.com/aleguy02/COP3530-project3/pull/33) in [aleguy02/COP3530-project3](https://github.com/aleguy02/COP3530-project3)
+1. 🎉 Merged PR [#40](https://github.com/aleguy02/PE-portfolio/pull/40) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+2. 💪 Opened PR [#40](https://github.com/aleguy02/PE-portfolio/pull/40) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+3. 🔒 Closed issue [#27](https://github.com/aleguy02/PE-portfolio/issues/27) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+4. 🎉 Merged PR [#39](https://github.com/aleguy02/PE-portfolio/pull/39) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+5. 💪 Opened PR [#39](https://github.com/aleguy02/PE-portfolio/pull/39) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
 
 
