@@ -28,11 +28,11 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/aleguy02/graph-uf/pull/42) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-2. 💪 Opened PR [#42](https://github.com/aleguy02/graph-uf/pull/42) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-3. 🎉 Merged PR [#43](https://github.com/aleguy02/PE-portfolio/pull/43) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. 💪 Opened PR [#43](https://github.com/aleguy02/PE-portfolio/pull/43) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. 🔒 Closed issue [#34](https://github.com/aleguy02/graph-uf/issues/34) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+1. 🎉 Merged PR [#45](https://github.com/aleguy02/graph-uf/pull/45) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+2. 💪 Opened PR [#45](https://github.com/aleguy02/graph-uf/pull/45) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+3. 🎉 Merged PR [#44](https://github.com/aleguy02/graph-uf/pull/44) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+4. 💪 Opened PR [#44](https://github.com/aleguy02/graph-uf/pull/44) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+5. 🎉 Merged PR [#42](https://github.com/aleguy02/graph-uf/pull/42) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
 <!--END_SECTION:activity-->
 
 
