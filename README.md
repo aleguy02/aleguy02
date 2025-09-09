@@ -29,10 +29,10 @@ Right now I'm learning about
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12689](https://github.com/pytest-dev/pytest/issues/12689#issuecomment-3264090147) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-2.  Labeled issue [#47](https://github.com/aleguy02/graph-uf/issues/47) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-3. ❗ Opened issue [#47](https://github.com/aleguy02/graph-uf/issues/47) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-4. 💪 Opened PR [#46](undefined) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-5. 💪 Opened PR [#45](undefined) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+2. ❗ Opened issue [#47](https://github.com/aleguy02/graph-uf/issues/47) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+3. 🎉 Merged PR [#46](https://github.com/aleguy02/graph-uf/pull/46) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+4. 💪 Opened PR [#46](https://github.com/aleguy02/graph-uf/pull/46) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+5. 🎉 Merged PR [#45](https://github.com/aleguy02/graph-uf/pull/45) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
 <!--END_SECTION:activity-->
 
 
