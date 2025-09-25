@@ -28,11 +28,11 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/zaybournand/SEC-FastAPI-Workshop/pull/1) in [zaybournand/SEC-FastAPI-Workshop](https://github.com/zaybournand/SEC-FastAPI-Workshop)
+1. 💪 Opened PR [#1](undefined) in [zaybournand/SEC-FastAPI-Workshop](https://github.com/zaybournand/SEC-FastAPI-Workshop)
 2. 🗣 Commented on [#12689](https://github.com/pytest-dev/pytest/issues/12689#issuecomment-3264090147) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-3. ❗ Opened issue [#47](https://github.com/aleguy02/graph-uf/issues/47) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-4. 🎉 Merged PR [#46](https://github.com/aleguy02/graph-uf/pull/46) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-5. 💪 Opened PR [#46](https://github.com/aleguy02/graph-uf/pull/46) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+3.  Labeled issue [#47](https://github.com/aleguy02/graph-uf/issues/47) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+4. ❗ Opened issue [#47](https://github.com/aleguy02/graph-uf/issues/47) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+5. 💪 Opened PR [#46](undefined) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
 <!--END_SECTION:activity-->
 
 
