@@ -28,11 +28,11 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/zaybournand/SEC-FastAPI-Workshop/pull/1) in [zaybournand/SEC-FastAPI-Workshop](https://github.com/zaybournand/SEC-FastAPI-Workshop)
-2. 🗣 Commented on [#12689](https://github.com/pytest-dev/pytest/issues/12689#issuecomment-3264090147) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-3. ❗ Opened issue [#47](https://github.com/aleguy02/graph-uf/issues/47) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-4. 🎉 Merged PR [#46](https://github.com/aleguy02/graph-uf/pull/46) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
-5. 💪 Opened PR [#46](https://github.com/aleguy02/graph-uf/pull/46) in [aleguy02/graph-uf](https://github.com/aleguy02/graph-uf)
+1. 🗣 Commented on [#12689](https://github.com/pytest-dev/pytest/issues/12689#issuecomment-3359422103) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+2. 💪 Opened PR [#13778](undefined) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+3. ❌ Closed PR [#278](undefined) in [codecov/codecov-demo](https://github.com/codecov/codecov-demo)
+4. 💪 Opened PR [#278](undefined) in [codecov/codecov-demo](https://github.com/codecov/codecov-demo)
+5. ❌ Closed PR [#277](undefined) in [codecov/codecov-demo](https://github.com/codecov/codecov-demo)
 <!--END_SECTION:activity-->
 
 
