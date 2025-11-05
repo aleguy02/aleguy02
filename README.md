@@ -28,7 +28,7 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12689](https://github.com/pytest-dev/pytest/issues/12689#issuecomment-3359422103) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+1. 🗣 Commented on [#12689](https://github.com/pytest-dev/pytest/issues/12689#issuecomment-3491794030) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 2. 💪 Opened PR [#13778](undefined) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 3. ❌ Closed PR [#278](undefined) in [codecov/codecov-demo](https://github.com/codecov/codecov-demo)
 4. 💪 Opened PR [#278](undefined) in [codecov/codecov-demo](https://github.com/codecov/codecov-demo)
