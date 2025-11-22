@@ -28,11 +28,11 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [dhiaaeddine16/LLMGraphTransformer](https://github.com/dhiaaeddine16/LLMGraphTransformer)
-2. 💪 Opened PR [#101](undefined) in [JeevanRMunn/jsoncrack.com](https://github.com/JeevanRMunn/jsoncrack.com)
-3. ❗ Opened issue [#1](https://github.com/dhiaaeddine16/LLMGraphTransformer/issues/1) in [dhiaaeddine16/LLMGraphTransformer](https://github.com/dhiaaeddine16/LLMGraphTransformer)
-4. 🗣 Commented on [#12689](https://github.com/pytest-dev/pytest/issues/12689#issuecomment-3491794030) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-5. ❌ Closed PR [#277](undefined) in [codecov/codecov-demo](https://github.com/codecov/codecov-demo)
+1. 🗣 Commented on [#13778](https://github.com/pytest-dev/pytest/pull/13778#issuecomment-3566933391) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+2. 💪 Opened PR [#2](undefined) in [dhiaaeddine16/LLMGraphTransformer](https://github.com/dhiaaeddine16/LLMGraphTransformer)
+3. 💪 Opened PR [#101](undefined) in [JeevanRMunn/jsoncrack.com](https://github.com/JeevanRMunn/jsoncrack.com)
+4. ❗ Opened issue [#1](https://github.com/dhiaaeddine16/LLMGraphTransformer/issues/1) in [dhiaaeddine16/LLMGraphTransformer](https://github.com/dhiaaeddine16/LLMGraphTransformer)
+5. 🗣 Commented on [#12689](https://github.com/pytest-dev/pytest/issues/12689#issuecomment-3491794030) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 <!--END_SECTION:activity-->
 
 
