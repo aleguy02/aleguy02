@@ -28,11 +28,11 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#45](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-2. 💪 Opened PR [#45](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. ❌ Merged PR [#44](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. 💪 Opened PR [#44](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. 🗣 Commented on [#13778](https://github.com/pytest-dev/pytest/pull/13778#issuecomment-3566933391) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+1. ❌ Merged PR [#47](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+2. 💪 Opened PR [#47](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+3. ❌ Merged PR [#46](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+4. 💪 Opened PR [#46](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+5. ❌ Merged PR [#45](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
 
 
