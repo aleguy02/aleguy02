@@ -28,11 +28,11 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#47](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-2. 💪 Opened PR [#47](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-3. ❌ Merged PR [#46](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-4. 💪 Opened PR [#46](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. ❌ Merged PR [#45](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+1. ❌ Merged PR [#50](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+2. 💪 Opened PR [#50](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+3. ❌ Merged PR [#49](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+4. 💪 Opened PR [#49](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+5. ❌ Merged PR [#48](undefined) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 <!--END_SECTION:activity-->
 
 
