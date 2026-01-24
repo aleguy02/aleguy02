@@ -28,8 +28,8 @@ Right now I'm learning about
 <h2>My Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10656](https://github.com/excalidraw/excalidraw/issues/10656#issuecomment-3793682014) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-2. 🎉 Merged PR [#50](https://github.com/aleguy02/PE-portfolio/pull/50) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
+1. 🗣 Commented on [#10656](https://github.com/excalidraw/excalidraw/issues/10656#issuecomment-3793813990) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
+2. 🗣 Commented on [#10656](https://github.com/excalidraw/excalidraw/issues/10656#issuecomment-3793682014) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 3. 💪 Opened PR [#50](https://github.com/aleguy02/PE-portfolio/pull/50) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 4. 🎉 Merged PR [#49](https://github.com/aleguy02/PE-portfolio/pull/49) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
 5. 💪 Opened PR [#49](https://github.com/aleguy02/PE-portfolio/pull/49) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
