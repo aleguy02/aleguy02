@@ -1,7 +1,3 @@
-<!---
-Credit to @wei and @AlexanderWangY for inspiration
---->
-
 <p>
   <h1>
     Hi, I’m <a href="https://github.com/aleguy02">Ale</a>
@@ -9,32 +5,18 @@ Credit to @wei and @AlexanderWangY for inspiration
   </h1>
 <p/>
 
-I'm a Computer Science major at the University of Florida who loves writing code.
-I enjoy staying up to date on the latest in <a href="https://www.youtube.com/c/SkillUp" target="_blank">video games</a>, 
-taking care of my bonsai trees 🌱, 
-and using my art skills (either by drawing or making UIs).
-Ever since I downloaded the GitHub mobile app, I’ve been enjoying scrolling through GitHub and discovering cool repositories.
+I like writing code. Currently tech lead at my school's ColorStack chapter and soon to be a 3x professional SRE (Meta/MLH, Splunk, GoDaddy). I'd like to break into fintech soon.
 
-**Check out my personal site and blog at [alejandrovillate.com](https://alejandrovillate.com) and [blog.alejandrovillate.com](https://blog.alejandrovillate.com)!**
+Right now I'm probably
+- self hosting AI models
+- architecting distributed computing pipelines
+- vibe coding!
 
+Languages:  
+Python, Golang, C/C++, JavaScript/TypeScript, shell (if that counts), and more
 
-Right now I'm learning about
-- Production Engineeering
-- DSA/Leetcode
-- System Design
-
-  <!--- TODO: add button to follow profile here --->
-
-<h2>My Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/dhiaaeddine16/LLMGraphTransformer/issues/3) in [dhiaaeddine16/LLMGraphTransformer](https://github.com/dhiaaeddine16/LLMGraphTransformer)
-2. 🗣 Commented on [#10656](https://github.com/excalidraw/excalidraw/issues/10656#issuecomment-3793813990) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-3. 🗣 Commented on [#10656](https://github.com/excalidraw/excalidraw/issues/10656#issuecomment-3793682014) in [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
-4. 🎉 Merged PR [#49](https://github.com/aleguy02/PE-portfolio/pull/49) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-5. 💪 Opened PR [#49](https://github.com/aleguy02/PE-portfolio/pull/49) in [aleguy02/PE-portfolio](https://github.com/aleguy02/PE-portfolio)
-<!--END_SECTION:activity-->
-
+OS:  
+macOS (personal computer and home server 1), Linux (home server 2)
 
 -----
 <p align="center">
@@ -43,8 +25,5 @@ Right now I'm learning about
   </a>
   <a href="https://www.linkedin.com/in/alejandrovillate1/">
     <img src="https://img.shields.io/badge/linkedin-Alejandro_Villate-0072B1?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="https://www.alejandrovillate.com">
-    <img src="https://img.shields.io/badge/me-327d47" />
   </a>
 </p>
